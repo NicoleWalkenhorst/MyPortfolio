@@ -1,0 +1,17 @@
+/* Navigation styles */
+.logo{
+    background: FFFFFF
+    height: 230px;
+    background-image: url("../images/myLogo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px
+    background-size: 100%
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: top;
+
+
+
